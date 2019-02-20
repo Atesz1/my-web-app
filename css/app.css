@@ -1,0 +1,26 @@
+@font-face {
+  font-family: "my-font";
+  src: url("../fonts/PatrickHand-Regular.ttf");
+}
+body {
+  font-size: 12px;
+  font-family: "my-font";
+  background-color: black;
+  color: white;
+}
+
+p {
+  text-align: justify;
+}
+
+figure {
+  border: 2px solid #f00;
+  border-radius: 5px;
+  padding: 10px 5px 10px 5px;
+  margin: 10px;
+  max-width: 100%;
+}
+
+img {
+  max-width: 100%;
+}

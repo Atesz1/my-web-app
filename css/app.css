@@ -3,9 +3,10 @@
   src: url("../fonts/PatrickHand-Regular.ttf");
 }
 body {
-  font-size: 12px;
+  font-size: 18px;
   font-family: "my-font";
-  background-color: black;
+  background-color: #0cf;
+;
   color: white;
 }
 
@@ -14,13 +15,13 @@ p {
 }
 
 figure {
-  border: 2px solid #f00;
-  border-radius: 5px;
+  border: 2px groove #ffffff;
+  border-radius: 10px;
   padding: 10px 5px 10px 5px;
   margin: 10px;
-  max-width: 100%;
+  max-width: 500px;
 }
 
 img {
-  max-width: 100%;
+  max-width: 500px;
 }

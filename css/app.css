@@ -2,11 +2,11 @@
   font-family: "my-font";
   src: url("../fonts/PatrickHand-Regular.ttf");
 }
+
 body {
   font-size: 18px;
   font-family: "my-font";
   background-color: #0cf;
-;
   color: white;
 }
 

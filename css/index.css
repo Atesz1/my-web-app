@@ -2,20 +2,23 @@
   margin: 10px;
   padding: 19px 19px 19px 19px;
 }
+
 #zuck {
   background-color: #ff3385;
   color: #4dffff;
 }
+
 #elon {
   background-color: #3385ff;
   color:  #ffff00;
 }
+
 #larry {
   background-color:  #ff8080;
   color: #3385ff;
 }
+
 #steve {
   background-color: #ff8533;
-  color: #cc33ff
-;
+  color: #cc33ff;
 }

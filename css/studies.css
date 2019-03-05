@@ -1,0 +1,60 @@
+body {
+  font-size: 18px;
+  font-family: "my-font";
+  background-color: #0cf;
+  color: white;
+}
+
+.height-20, .height-20 > th, .height-20 > td {
+  height: 20px;
+}
+
+td:last-child {
+  text-align: right;
+}
+
+.height-40, .height-40 > th, .height-40 > td {
+  height: 20px;
+}
+
+td:last-child {
+  text-align: right;
+}
+
+.height-60, .height-60 > th, .height-60 > td {
+  height: 20px;
+}
+
+td:last-child {
+  text-align: right;
+}
+
+.height-20, .height-20 > th, .height-20 > td {
+  height: 20px;
+}
+
+td:last-child {
+  text-align: right;
+}
+
+.height-40, .height-40 > th, .height-40 > td {
+  height: 20px;
+}
+
+td:last-child {
+  text-align: right;
+}
+
+.height-60, .height-60 > th, .height-60 > td {
+  height: 20px;
+}
+
+td:last-child {
+  text-align: right;
+}
+
+.highlighted {
+  background-color: #4d4dff;
+  color: #fff;
+  font-weight: bold;
+}
